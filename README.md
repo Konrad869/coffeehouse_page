@@ -3,7 +3,7 @@ The coffeehouse_page is a page that presents the coffeehouse's website. The webs
 Tech
 
 
-JobOffers is developed using following technologies:
+coffeehouse_page is developed using following technologies:
 
 
  
